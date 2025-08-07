@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mrityunjay Kumar</h1>
 <h3 align="center">A passionate MERN Stack Developer from India 🇮🇳</h3>
+<p align="center">
+  <img src="https://github.com/mrityu12/mrityu12/blob/main/banner.png" alt="Mrityunjay Kumar - Full Stack Developer Banner" />
+</p>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
